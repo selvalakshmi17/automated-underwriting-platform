@@ -1,0 +1,4 @@
+opencv-python
+pytesseract
+Pillow
+⚠️ If you're using Google Colab or Jupyter, install tesseract separately.
