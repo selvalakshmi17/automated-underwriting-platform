@@ -20,10 +20,9 @@ An AI-powered underwriting system that automates property risk assessment using 
 
 ## 🗂️ Folder Structure
 automated-underwriting-platform/
-│
-├── underwriting_ai.py
-├── requirements.txt
-└── README.md
+->underwriting_ai.py
+->requirements.txt 
+->README.md
 
 
 ## 🎯 Evaluation Criteria Covered
